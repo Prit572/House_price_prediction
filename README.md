@@ -20,7 +20,7 @@ This project is a web-based application that predicts house prices in Bangalore 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Prit572/House_price_prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
